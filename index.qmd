@@ -20,9 +20,9 @@ Hi, and welcome to my website!
 
 ## Education
 
-Carnegie Mellon University | Pittsburgh, PA |
+{{< iconify zondicons:education size=l >}} Carnegie Mellon University | Pittsburgh, PA |
 PhD in Statistics | 2024 - 2029 *(expected)*
 
 ## Experience
 
-Summer Undergraduate Research Experience in Statistics: Sports Analytics (CMSACamp) | Summer 2026
+{{< iconify octicon heart-fill-16 >}} Summer Undergraduate Research Experience in Statistics: Sports Analytics (CMSACamp) | Summer 2026
