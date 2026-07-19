@@ -7,6 +7,20 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "CMSACamp Final Project\n\n\n\n\n\n\n\n\nJul 24, 2026\n\n\nScotty Dawg, Scotty Dog Jr\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/CMSACamp/report.html",
+    "href": "projects/CMSACamp/report.html",
+    "title": "CMSACamp Final Project",
+    "section": "",
+    "text": "Between 2009 and 2021, over 7,200 horses died or were euthanized due to racing-related injuries. Using horse profile data and horse tracking data from the NYRA, we hoped to identify horses who under-raced between 2019 and 2021, cluster movement profiles for horses who raced in 2019 New York races, and discover whether certain profiles were more associated with injured horses.\nBy fitting a negative binomial model on horse profile data and performing residual analysis, we discovered that at least 251 horses under-raced between 2019 and 2021. Additionally, clustering horse movement profiles revealed that a horse’s speed profile is most associated with its injury status: specifically, greater variation in speed is more associated with injury."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Scotty Dawg",
