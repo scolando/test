@@ -1,0 +1,28 @@
+---
+title: "Scotty Dawg"
+image: images/profile.png
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: Github
+      href: https://github.com
+toc: false
+---
+
+Hi, and welcome to my website!
+
+## Education
+
+Carnegie Mellon University | Pittsburgh, PA |
+PhD in Statistics | 2024 - 2029 *(expected)*
+
+## Experience
+
+Summer Undergraduate Research Experience in Statistics: Sports Analytics (CMSACamp) | Summer 2026
