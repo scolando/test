@@ -12,6 +12,14 @@ website:
       - about.qmd
     right:
       - href: projects.qmd
+      
+  page-footer:
+    left:
+      - text: "&copy; Copyright 2026, Scotty Dawg"
+    right:
+      - icon: github
+        href: https://github.com/scolando/test
+    background: "white"
 
 format:
   html:
